@@ -1,0 +1,18 @@
+<html>
+<head>
+    <script>
+        window.addEventListener('message', (event) => {
+            if (event.data.type === 'copy') {
+                const el = document.createElement('textarea');
+                el.value = event.data.text;
+                document.body.appendChild(el);
+                el.select();
+                document.execCommand('copy');
+                document.body.removeChild(el);
+            }
+        });
+    </script>
+</head>
+<body>
+</body>
+</html>
