@@ -1,5 +1,7 @@
 Config = {}
 
+Config.Version = '1.0.0' -- DON'T CHANGE THIS! Current version of the script
+
 Config.AdminGroups = {
     -- ESX Groups
     'admin',

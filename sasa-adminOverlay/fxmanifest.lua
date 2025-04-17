@@ -18,7 +18,8 @@ client_scripts {
 
 server_scripts {
     'framework/framework_sv.lua',
-    'server/server.lua'
+    'server/server.lua',
+    'server/versionChecker.lua'
 }
 
 ui_page 'html/index.html'
