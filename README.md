@@ -103,7 +103,7 @@ The script is optimized with:
 - Efficient memory usage
 
 ## Support
-Discord: [Your Discord Link]
+Discord: COMING SOON
 
 ## License
-MIT License
+Apache License 2.0
