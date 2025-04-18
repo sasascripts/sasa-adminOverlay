@@ -135,8 +135,6 @@ Config.Notifications = {
 
 ## Support
 - Discord: COMING SOON
-- GitHub Issues: [Repository Link]
-- Documentation: [Wiki Link]
 
 ## Credits
 Created by SASA SCRIPTS
